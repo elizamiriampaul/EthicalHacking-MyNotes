@@ -123,6 +123,9 @@ Intruder
 5. John the Ripper – Password Cracker
 Tool for cracking password hashes using dictionary or brute-force attacks.
 
+static analysis
+dynamic analysis
+
 
 
 
